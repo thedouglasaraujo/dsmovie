@@ -2,7 +2,7 @@
 
 ## :memo: Descrição
 Site de avaliação de filmes. <br/>
-Acesse já: thedouglasaraujo.github.io/dsmovie/
+Acesse: https://thedouglasaraujo.github.io/dsmovie/
 
 ## :wrench: Tecnologias utilizadas
 - HTML
